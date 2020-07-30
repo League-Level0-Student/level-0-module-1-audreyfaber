@@ -30,7 +30,7 @@ public class RobotInSpace implements KeyEventDispatcher {
 		// each arrow key
 
 		// 3. If the up arrow is pressed, move the Robot up the screen.
-
+ 
 		// 4. If the down arrow is pressed, move the Robot down.
 
 		// 5. If the left arrow is pressed, make the Robot go left.

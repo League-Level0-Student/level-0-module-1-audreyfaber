@@ -51,7 +51,7 @@ if (answer5.equals("w")) {
 else JOptionPane.showMessageDialog(null, "Wrong. The answer is w ");
 
 
-
+JOptionPane.showMessageDialog(null, "Your score is " + score );
 
 // 5. Otherwise, say "wrong" and tell them the answer
 
